@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolás Rey</h1>
-<h3 align="center">I am a passionate game developer focused on creating high-quality and scalable code. I enjoy working in teams, and my goal is to contribute to the development of engaging games, prioritizing code quality in every project, while continuing to learn in this field.</h3>
+<h3 align="center">I am a passionate game developer focused on creating high-quality and scalable code. I am passionate about developing local multiplayer video games that foster fun and connection among family and friends, as well as creating video game adaptations of board games. Yes, I know they don’t sell well.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reynicolas&label=Profile%20views&color=0e75b6&style=flat" alt="reynicolas" /> </p>
 
